@@ -10,7 +10,7 @@ import { FaGithub } from 'react-icons/fa';
 function Footer() {
   return (
     <footer className="flex items-center justify-center h-16">
-      <p className="mr-2">Made by Yared ♞</p>
+      <p className="mr-2">Made by Yared  ♞</p>
       <a href="https://github.com/theHabesa1" target="_blank" rel="noopener noreferrer">
         <FaGithub size={24} />
       </a>
